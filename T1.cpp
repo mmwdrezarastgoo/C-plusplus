@@ -1,4 +1,5 @@
 //t1
+//Fasl1= type , operation (cin , cout)
 #include <iostream>
 #include <conio.h>
 using namespace std;
