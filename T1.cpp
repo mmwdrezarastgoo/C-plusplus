@@ -6,14 +6,15 @@ using namespace std;
 {
 	cout<<"Hello"<<"ali"<<endl;
 	
-	cout<<"Hello"<<'\t'<<"ali"<<endl<<endl;
+	cout<<"Hello"<<'\t'<<"ali"<<endl<<endl; //spacing 4 charactor
 	
 	cout<<"Hello"<<'\n'<<"ali"<<endl;
 	cout<<"Hello"<<endl<<"ali"<<endl<<endl;
 	
 	cout<<"Hello"<<'\b'<<"ali"<<endl;
-	cout<<"Hello"<<'\b';
+	cout<<"Hello"<<'\b'; //backward cursor
 	
-	cout<<'\a';
-	getch();
+	
+	cout<<'\a';    //alarm sound
+	getch(); //header file of getch() is coni.h , it causes no extra text after run
 }
