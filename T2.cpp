@@ -10,5 +10,5 @@ main()
 	cout<<"2*a=";
 	cout<<2*a; //using    cout    without " "   ---->   we can calculate
 		
-		getch();
+	getch();
 }
