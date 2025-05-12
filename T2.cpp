@@ -1,4 +1,4 @@
-//t2= getting  a single integer number from input and show twise those number in output
+//t2= getting  a single integer number from input and show twise that number in output
 #include <iostream>
 #include <conio.h>
 using namespace std;
