@@ -8,7 +8,7 @@ main()
 	cout<<"(please enter a integer number as a)"<<endl<<"a=";
 	cin>>a; //By using    cin    we can receive a thing in output 
 	cout<<"2*a=";
-	cout<<2*a; //using    cout    without " "  we can calculate
+	cout<<2*a; //using    cout    without " "   ---->   we can calculate
 		
 		getch();
 }
