@@ -1,4 +1,4 @@
-//t3:getting two integer numbers from input and calculate summation of those two numbers in output
+//t3=getting two integer numbers from input and calculate summation of those two numbers in output
 #include <iostream>
 #include <conio.h>
 using namespace std;
