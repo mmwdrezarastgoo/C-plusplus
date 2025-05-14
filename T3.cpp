@@ -10,7 +10,8 @@ main()
 	cout<<"enter another integer number as b :"<<endl;
 	cin>>b;
 	cout<<"------------------------------------"<<endl;
-	cout<<"a+b="<<a+b;
+	cout<<"a+b="<<a+b<<endl<<endl;
+	cout<<"("<<a<<"+"<<b<<")"<<"="<<a+b;
 	
 	getch();
 }
